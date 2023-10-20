@@ -11,9 +11,7 @@ Technologies Used:
 
 Index Page:
    In this page we can input the data(movie name) and show the result in the display.
-
-
-##Screnshot:
+   Screnshot:
 ![Screenshot (38)](https://github.com/sibaprasad350/Movie-recommendation-system/assets/117096489/2eb2e533-e751-4055-92a7-13cc3a6a594e)
 ![Screenshot (12)](https://github.com/sibaprasad350/Movie-recommendation-system/assets/117096489/f3adfce8-ea58-4f2f-ab2f-c52b9373f54c)
 ![Screenshot (11)](https://github.com/sibaprasad350/Movie-recommendation-system/assets/117096489/a34f0f19-4243-4d4f-ac07-9886a65ca090)
