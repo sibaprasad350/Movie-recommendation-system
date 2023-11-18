@@ -8,7 +8,16 @@ Python: The primary programming language for the project.
 Jupyter Notebook: An interactive development environment for data exploration and analysis.
 Pandas: Used for data manipulation and analysis.
 Scikit-learn: Employed for implementing machine learning algorithms.
-Dataset
+
+
+->Python
+->Jupyter Notebook
+->Pandas
+->Scikit-learn
+->Collaborative Filtering 
+->Pycharm Community edition.
+
+#### Dataset
 The project utilizes the MovieLens dataset, a widely used dataset in the field of recommendation systems. This dataset contains movie ratings and user information, making it suitable for collaborative filtering.
 
 ## Project Workflow
@@ -25,14 +34,6 @@ Apply collaborative filtering techniques, such as cosine similarity, to find mov
 #### Recommendation Function:
 Develop a function that takes a movie title and user rating as input, providing a list of recommended movies based on similarity scores.
 Movie Recommendation System is a filtration strategy using content-based filtering for recommending movie using ML algorithms. Movie can be recommended by using vectorization method. 
-
-## Technologies Used:
-->Python
-->Jupyter Notebook
-->Pandas
-->Scikit-learn
-->Collaborative Filtering 
-->Pycharm Community edition.
 
    
 #### Screenshot:
